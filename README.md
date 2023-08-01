@@ -1,5 +1,7 @@
-These are my assignments and projects that are created for computational linguistics class
-#Auto Correction#
+These are my assignments and projects that are created for computational linguistics class.
+
+#Auto Correction
+
 The program, firstly, cleans a html document by using regex. Then it tokenize it and calculate the frequency of the apperance of a word in the document. The program takes two parameters, namely 'word' and 'n_suggestions'. It calculates the edit distance of the word and gives n suggestion.
 
 For example:
