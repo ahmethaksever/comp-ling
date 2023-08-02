@@ -11,16 +11,25 @@ The program can also make you choose between the option and put it on the memory
 
 For example:
 AutoCorrect("kazanmı") gives the following output and user choose among the options.
+
 0 kazandı
+
 1 alanı
+
 2 azami
+
 3 kanalı
+
 4 zamanı
+
 Please give your response:0
+
 Your answer is saved as kazanmı -> kazandı
 
 If the user call the function with the same word, it gives the following output:
+
 Your word is: kazanmı
+
 The correct word is 'kazandı'
 
 # Recommend Songs by Mood
