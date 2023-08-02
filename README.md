@@ -25,6 +25,6 @@ The correct word is 'kazandı'
 
 # Recommend Songs by Mood
 
-The program recommend songs by your mood. The program use naive bayes to train itself. The program reads song lyrics dataset and based on lyrics recommends songs based on the input. 
+The program recommend songs by your mood. The program use naive bayes to train itself. The program reads song lyrics dataset and based on lyrics recommends songs based on the input. Streamlit package is used so that it can be run on a browser. You can be an example below.
 
 ![song-recommends](https://github.com/ahmethaksever/comp-ling/assets/107223224/5f38c10e-e46a-493d-9517-f138a0f2fe32)
